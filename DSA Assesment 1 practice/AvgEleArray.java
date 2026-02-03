@@ -1,4 +1,3 @@
-
 import java.util.*;
 public class AvgEleArray {
    public static void main(String[] args){
@@ -16,4 +15,5 @@ public class AvgEleArray {
 
 
     
+
 
