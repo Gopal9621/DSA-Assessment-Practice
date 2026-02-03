@@ -15,3 +15,4 @@ public class GCD {
         System.out.println(a);
     }
 }
+
