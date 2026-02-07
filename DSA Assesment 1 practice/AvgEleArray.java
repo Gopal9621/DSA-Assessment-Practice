@@ -11,9 +11,10 @@ public class AvgEleArray {
         }
          System.out.println(avg/n);
     }
-   } 
+} 
 
 
     
+
 
 
